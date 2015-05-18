@@ -73,11 +73,6 @@ abbr {
 	height: 150px; 
 	color: silver;
 	margin-left: 0;
-/* 	float: left; */
-
-/* 	text-indent: 100%; */
-/* 	white-space: nowrap; */
-/*  overflow: hidden;  */
 	}
 header h1 {
 	margin-top: 0;
@@ -86,7 +81,6 @@ header h1 {
 	height: 50px;
 	}
 header h2 { 
-/* 	background: url(arabic_pattern1low.jpg);  */
 	margin-top: 0;  
 	margin-bottom: 30px;
 	margin-right: 300px;
@@ -95,11 +89,6 @@ header h2 {
 	width: 1100px; 
 	height: 30px;
 	text-align: right;
-/* 	float: right; */
-
- /*	text-indent: 100%; */
-/* 	white-space: nowrap;  */
-/* 	overflow: hidden;  */
 	}
 header {
 	padding-top: 20px;
@@ -107,11 +96,10 @@ header {
 }
 
 .summary {
-/* 	clear: both;  */
 	margin: 20px 20px 20px 10px; 
 	width: 1200px; 
-	margin-bottom: 600px;
-/* 	float: left; */
+	margin-bottom: 500px;
+
 	}
 .summary p {
 	color: silver;
@@ -151,14 +139,12 @@ footer {
 	top: 30px;
 	} 
 footer a:link, footer a:visited { 
-/* 	top: 30px; */
 	margin-right: 45px;
 	font-size: 23px;
 	}
 
 .sidebar {
 	background: url(wpid-Damask-Wallpaper.jpg);
-/* 	margin-left: 100px; */
 	position: absolute;
 	top: 270px; 
 	right: 5px;
@@ -170,14 +156,11 @@ footer a:link, footer a:visited {
 	font: 10px verdana, sans-serif; 
 	background: transparent url(paper-bg.jpg) top left repeat-y; 
 	padding: 10px; 
-/* 	margin-top: 0;
-	margin-left: 0; */
 	width: 100px;
 	color: silver;
 	text-align: center;
 	}
 .sidebar h3.select { 
-/* 	background: transparent url(h3.gif) no-repeat top left;  */
 	color: silver;
 	margin: 10px 0 5px 0; 
 	width: 97px; 
@@ -185,7 +168,7 @@ footer a:link, footer a:visited {
 
 	text-indent: 100%;
 	white-space: nowrap;
-	overflow: hidden;
+/* 	overflow: hidden; */
 	}
 .sidebar .design-archives { 
 	background: black;
@@ -238,7 +221,6 @@ footer a:link, footer a:visited {
 	color: #B3AE94;
 	}
 
-
 .extra1 {
 	background: transparent url(cr2.gif) top left no-repeat; 
 	position: absolute; 
@@ -247,3 +229,11 @@ footer a:link, footer a:visited {
 	width: 148px; 
 	height: 110px;
 	}
+
+#zen-supporting p {
+	font-size: 15px;
+}
+
+#zen-preamble p {
+	font-size: 15px;
+}
